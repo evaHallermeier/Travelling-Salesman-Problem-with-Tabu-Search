@@ -1,6 +1,7 @@
 import random
-f = open("graph30.txt", "a")
-n = 30
+n = int(sys.arg[1]) #number of nodes
+name = "garph" + n + ".txt"
+f = open(name, "a")
 for i in range(n):
     f.write(str(i)) #node name
     f.write(" ")
