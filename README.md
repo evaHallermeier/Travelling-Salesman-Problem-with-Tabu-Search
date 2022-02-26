@@ -16,12 +16,19 @@ The code use few module that you need to dowload: numpy and matplotlib for graph
   
 3. Run the code tabu_search_project.py with arguments separated by space
   first argument is name of the file created as exemple graph30.txt (need to be in the sme directory as the code)
+  
   second argument is the size of the tabu list
+  
   third argument is the number of cities in the given graph
+  
   fourth argument is is number of epochs for tabu search
+  
   fifth argument is number of epochs for simulated annealing
+  
   sixth argument is -s  (is=f we want to run the 2 algoruthm with the same initial solution) if not write 0
+  
   seventh argument is -g (if we want to show graph and show the performance of the 2 algorithms)
+  
 
 ## Authors
 - Eva Hallermeier
