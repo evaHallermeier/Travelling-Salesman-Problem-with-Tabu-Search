@@ -11,7 +11,7 @@ The code uses few modules that you need to download: numpy and matplotlib for gr
 ## Running
 
 1. Download the project and open it in an IDE like Pycharm.
-2. Create a graph by running the code generateGraph.py with one argument: the number of cities for the problem: it will create a file with cities and their position called graph<n>.txt : each line in the file will represent a city with their attributes: 
+2. Create a graph by running the code generateGraph.py with one argument: the number of cities for the problem: it will create a file with cities and their position called graph{n}.txt : each line in the file will represent a city with their attributes: 
   name x_position y_position
   exemple 0 5 9 
   0 will be hte name of the city, 5 will be x_position and 9 is y_position of this city
