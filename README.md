@@ -27,14 +27,12 @@ The code uses few modules that you need to download: numpy and matplotlib for gr
   
   - fourth argument is the number of epochs for tabu search algorithm
   
-  - fifth argument is the number of epochs for simulated annealing algorithm
+  - fifth argument is -s  (if we want to run the 2 algorithms with the same initial solution) if not write 0
   
-  - sixth argument is -s  (if we want to run the 2 algorithms with the same initial solution) if not write 0
-  
-  - seventh argument is -g (if we want to show graph and show the performance of the 2 algorithms)
+  - sixth argument is -g (if we want to show graph and show the performance of the 2 algorithms)
   
   
-  Example:   graph30.txt 20 30 50 1000 -s -g
+  Example:   graph30.txt 20 30 50 -s -g
   for running tabu_search_project.py
 
 ## Authors
