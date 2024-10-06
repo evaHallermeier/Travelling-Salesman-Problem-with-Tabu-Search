@@ -1,4 +1,4 @@
-# Optimization project - Tabu search
+# Optimization course project - Tabu search
 
 This project is a python code which implement the Tabu search algorithm and solve the travelling salesman problem TSP.
 Travelling Salesman Problem (TSP): Given a set of cities and their position, the problem is to find the shortest possible route that visits every city exactly once and returns to the starting point.
